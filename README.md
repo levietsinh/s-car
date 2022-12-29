@@ -70,3 +70,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+## Design https://www.figma.com/file/Jkj1WVAv0aRH9HnbChnE0B/Car-Service-Website-Landing-Page-(Community)?node-id=0%3A1&t=3t1GpMz861vE8Hb0-1
